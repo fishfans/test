@@ -1,5 +1,11 @@
 {
-  "tags": [],
+  "tags": [
+    {
+      "id": "tag_done",
+      "name": "Done",
+      "color": "#27ae60"
+    }
+  ],
   "dates": {
     "2026-04-07": {
       "planSets": [
@@ -22,7 +28,7 @@
             },
             {
               "id": "id_mpgevbx8_4xnksh",
-              "content": "新项目",
+              "content": "看电视",
               "tags": [],
               "order": 2
             }
