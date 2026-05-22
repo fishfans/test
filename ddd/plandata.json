@@ -2,7 +2,33 @@
   "tags": [],
   "dates": {
     "2026-04-07": {
-      "planSets": []
+      "planSets": [
+        {
+          "id": "id_mpgeuyw2_27crdf",
+          "title": "新计划",
+          "order": 0,
+          "items": [
+            {
+              "id": "id_mpgeuyw2_k3lpf7",
+              "content": "玩猫",
+              "order": 0,
+              "tags": []
+            },
+            {
+              "id": "id_mpgev9ws_9kxcfp",
+              "content": "剃毛",
+              "tags": [],
+              "order": 1
+            },
+            {
+              "id": "id_mpgevbx8_4xnksh",
+              "content": "新项目",
+              "tags": [],
+              "order": 2
+            }
+          ]
+        }
+      ]
     },
     "2026-04-06": {
       "planSets": []
